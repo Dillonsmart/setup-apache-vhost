@@ -1,9 +1,9 @@
 # Setup Apache2 VHost for Linux/Ubuntu
 
 ## Usage
-Clone or download the repo into your home directory
+Clone or download the repo
 
-Form the home directory run 
+Form the directory the project was cloned to run: 
 ```
 bash savh.sh
 ```
