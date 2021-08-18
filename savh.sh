@@ -29,6 +29,6 @@ case "$response" in
 
         ;;
     *)
-        do_something_else
+        echo "END"
         ;;
 esac
